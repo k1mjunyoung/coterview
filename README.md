@@ -1,4 +1,4 @@
-# Alchive: Algorithm Archive
+# Coterview
 
 이 저장소는 다양한 온라인 저지(Online Judge) 플랫폼에서 해결한 알고리즘 문제의 소스 코드를 저장하고 관리하기 위한 공간입니다.
 
